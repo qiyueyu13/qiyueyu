@@ -6,6 +6,7 @@
 你可以从 A 中选出 K 个不同的元素（只看位置不同），计算它们的异或结果。
 找到所有可能的选法之中，异或结果的最大值，并且输出这个最大值。
 */
+package example;
 import java.util.*;
 
 public class Main_2026_4_23_1{
