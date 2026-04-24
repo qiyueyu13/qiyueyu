@@ -8,7 +8,7 @@
 */
 import java.util.*;
 
-public class Main1{
+public class Main_2026_4_23_1{
     static Scanner sc = new Scanner(System.in);
     static long ans = 0;  // 存储最终的最大异或结果
     static long s = 0;    // 存储所有数的异或总和（用于优化）
