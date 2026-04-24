@@ -6,6 +6,7 @@
     有一个中心点，中心点连着 x 个中间点，每个中间点再连着 y 个叶子。
     x 和 y 都是至少为 1 的正整数。问最少需要删掉多少个顶点。题目保证一定可以做到。
 */
+package example;
 import java.util.*;
 
 public class Main_2026_4_24_1 {
