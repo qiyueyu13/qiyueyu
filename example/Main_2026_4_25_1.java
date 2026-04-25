@@ -91,9 +91,8 @@ public class Main_2026_4_25_1 {
     }
     
     public static void main(String[] args) {
-        // opt 变量用于控制是否多组测试用例，这里固定为 0 表示单组测试
         int opt = 0, t = 1;
-        if (opt == 1) t = sc.nextInt();  // 如果 opt=1，则读取测试用例组数
+        if (opt == 1) t = sc.nextInt();
         while (t-- != 0)
             solve();
     }
