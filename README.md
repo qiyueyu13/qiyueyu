@@ -1,5 +1,6 @@
 # 每日练习
 主要是每天练习练习防止脑子生锈，虽然还是特别的菜，题目来源大部分来自atcoder。
+
 2026.4.23
 https://atcoder.jp/contests/abc386/tasks/abc386_e
 
