@@ -15,3 +15,5 @@ https://atcoder.jp/contests/abc385/tasks/abc385_e
 
 2026.4.25
 https://atcoder.jp/contests/abc362/tasks/abc362_e
+
+https://atcoder.jp/contests/abc341/tasks/abc341_e
