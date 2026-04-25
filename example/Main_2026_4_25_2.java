@@ -1,5 +1,5 @@
 /*
-题目提交链接：https://atcoder.jp/contests/abc344/tasks/abc344_f
+题目提交链接：https://atcoder.jp/contests/abc341/tasks/abc341_e
 题目大意：
         给定一个长度为 N 的 01 字符串 S，有 Q 个操作：
     类型1 (L R)：翻转区间 [L, R] 内的所有字符（0变1，1变0）
